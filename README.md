@@ -58,11 +58,6 @@ This repository showcases my learning, projects, and professional experience in:
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shwetasingh02&theme=tokyonight)
----
-
-# 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shwetasingh02\&theme=tokyonight)
 
 ---
