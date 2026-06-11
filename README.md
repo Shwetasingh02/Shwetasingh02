@@ -54,10 +54,11 @@ This repository showcases my learning, projects, and professional experience in:
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetasingh02\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetasingh02&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetasingh02\&layout=compact\&theme=tokyonight)
+# 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Shwetasingh02&theme=tokyonight)
 ---
 
 # 🔥 GitHub Streak
